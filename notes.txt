@@ -1,3 +1,18 @@
 place keys in random chests maybe 2-3 keys and possible 20 chests
 
 spawn and player flow control 
+
+revive stations
+collect gold
+use gold to respawn teamates
+
+
+when conditions:
+    when unlock new area (opens gate) boss gets a little bit stronger
+
+
+game flow:
+    spawn in alley way
+    gather keys
+    unlock gates to unlock new areas
+    
